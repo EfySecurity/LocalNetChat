@@ -12,6 +12,11 @@ O LocalNetChat é um chat de rede local simples, criado em Bash e Netcat, que pe
 ## Requisitos
 
 - Netcat (`nc`): Verifique se o Netcat está instalado em seu sistema. Se não estiver presente, instale-o usando o gerenciador de pacotes da sua distribuição.
+- Antes de mais nada use o script install_netcat.sh para ter certeza que tudo esta nos conformes
+
+``chmod +x install_netcat.sh``
+
+``./install_netcat.sh``
 
 ## Instalação
 
@@ -25,9 +30,9 @@ O LocalNetChat é um chat de rede local simples, criado em Bash e Netcat, que pe
 
 3. Execute o servidor:
 
-``chmod +x chat_server.sh``
+``chmod +x servidor.sh``
 
-``./chat_server.sh``
+``./servidor.sh``
 
 ## Uso
 
@@ -37,9 +42,9 @@ Navegue até o diretório onde o repositório foi clonado ou baixado.
 
 Execute o cliente:
 
-``chmod +x chat_client.sh``
+``chmod +x cliente.sh``
 
-``./chat_client.sh``
+``./cliente.sh``
 
 Quando solicitado, insira um nome de usuário para identificação no chat.
 
