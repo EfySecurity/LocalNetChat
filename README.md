@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Gnu-bash-logo.svg">
+</div>
+
 # LocalNetChat
 
 O LocalNetChat é um chat de rede local simples, criado em Bash e Netcat, que permite a troca de mensagens entre usuários na mesma rede local. Ideal para comunicação rápida e eficiente entre dispositivos conectados à mesma rede.
@@ -58,5 +62,12 @@ Este projeto é um exemplo de chat de rede local simples e não oferece recursos
 ## Contribuição
 Sinta-se à vontade para melhorar este projeto! Se você tem sugestões para adicionar recursos ou melhorar a segurança, fique à vontade para criar um fork deste repositório, implementar as mudanças e enviar um pull request.
 
+## Autor
+
+Nome: Efy Security
+
+Email: efy.security@proton.me
+
 ## Licença
-Este projeto é licenciado sob a Licença Pública Geral GNU (GNU GPL) versão 3.0. Consulte o arquivo LICENSE para obter mais detalhes.
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
